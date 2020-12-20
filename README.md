@@ -16,4 +16,4 @@ https://howto.rc3.world/maps.html
 
 ## A screenshot:
 
-![work in progress screenshot](Screenshot_20201220_191236.png)
+![work in progress screenshot](Screenshot.png)
