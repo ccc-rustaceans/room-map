@@ -13,3 +13,7 @@ sudo pacman -S community/tiled # 1.4.3-2
 ## Tutorial
 
 https://howto.rc3.world/maps.html
+
+## A screenshot:
+
+![work in progress screenshot](Screenshot_20201220_191236.png)
