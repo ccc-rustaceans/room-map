@@ -68,7 +68,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared_herewetalk"
+                 "value":"rustAssembly"
                 }],
          "type":"tilelayer",
          "visible":true,
