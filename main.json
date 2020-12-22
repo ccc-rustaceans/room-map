@@ -87,6 +87,11 @@
                  "name":"playAudio",
                  "type":"string",
                  "value":"\/mp3\/timbregirlelevator.mp3"
+                }, 
+                {
+                 "name":"playSound",
+                 "type":"string",
+                 "value":"\/mp3\/timbregirlelevator.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

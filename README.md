@@ -6,11 +6,11 @@ Please improve it, by either messaging [@dns2utf8](https://twitter.com/dns2utf8)
 
 ## Playable level
 
-https://play.workadventu.re/_/global/ccc-rustaceans.github.io/room-map/main.json
+[https://play.workadventu.re/_/global/ccc-rustaceans.github.io/room-map/main.json](https://play.workadventu.re/_/global/ccc-rustaceans.github.io/room-map/main.json)
 
 ## Loadable with github pages
 
-https://ccc-rustaceans.github.io/room-map/main.json
+[https://ccc-rustaceans.github.io/room-map/main.json](https://ccc-rustaceans.github.io/room-map/main.json)
 
 ## Software used: Tiled
 
