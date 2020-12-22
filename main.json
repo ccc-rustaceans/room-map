@@ -87,11 +87,6 @@
                  "name":"playAudio",
                  "type":"string",
                  "value":"\/mp3\/timbregirlelevator_softer.mp3"
-                }, 
-                {
-                 "name":"playSound",
-                 "type":"string",
-                 "value":".\/mp3\/timbregirlelevator_softer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
