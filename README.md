@@ -1,8 +1,8 @@
-# Basic Room
+# [Basic Room](https://github.com/ccc-rustaceans/room-map)
 
 Stefan made this room withouth knowing much about 2D tiles and no time.
 
-Please improve it, by either messaging [@dns2utf8](https://twitter.com/dns2utf8) or sending a PR
+Please improve it, by either messaging [@dns2utf8](https://twitter.com/dns2utf8), opening an issue or sending a PR.
 
 ## Playable level
 
