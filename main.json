@@ -140,7 +140,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"{<lobby>\/maps\/software.json#start_rust-lang}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -501,9 +501,7 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tilewidth":32,
          "tiles":[
-                
                 {
                  "animation":[
                         {
@@ -595,8 +593,8 @@
                          "tileid":191
                         }],
                  "id":187
-                }
-         ]
+                }],
+         "tilewidth":32
         }, 
         {
          "columns":16,
