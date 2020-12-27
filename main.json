@@ -32,7 +32,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/users.rust-lang.org\/t\/rc3-assembly-ccc-congress\/50283"
+                 "value":"https:\/\/engel-simulator.club\/"
                 }],
          "type":"tilelayer",
          "visible":true,
