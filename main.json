@@ -140,7 +140,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/software.json#start_rust-lang}"
+                 "value":"{<lobby>\/maps\/software.json#start_rust}"
                 }],
          "type":"tilelayer",
          "visible":true,
