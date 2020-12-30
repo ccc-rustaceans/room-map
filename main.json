@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mps.estada.ch\/rc3\/"
+                 "value":"https:\/\/mps.estada.ch\/rc3"
                 }],
          "type":"tilelayer",
          "visible":true,
