@@ -130,6 +130,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"HarAbjNC07NUFzwIa5ApEHzg3EY2yvkcr9KucmacfLGhDjUJov "
+                }, 
+                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
