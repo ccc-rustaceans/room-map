@@ -223,14 +223,25 @@
          "draworder":"topdown",
          "id":32,
          "name":"badge_start",
-         "objects":[],
-         "opacity":1,
-         "properties":[
+         "objects":[
                 {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"o2oA7B6yKqinrwIgeGoRbHYyiN8TnYwTDxhrfOmtOVJKc9caDL"
+                 "height":245.333333333333,
+                 "id":5,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"o2oA7B6yKqinrwIgeGoRbHYyiN8TnYwTDxhrfOmtOVJKc9caDL"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":312,
+                 "x":1292,
+                 "y":1288
                 }],
+         "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -440,7 +451,7 @@
          "y":0
         }],
  "nextlayerid":33,
- "nextobjectid":5,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {
