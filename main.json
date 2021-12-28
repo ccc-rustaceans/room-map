@@ -508,6 +508,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1170,7 +1176,7 @@
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
-                         "value":"CCC & Rust Assembly"
+                         "value":"CCC and Rust Assembly"
                         }]
                 }],
          "tilewidth":32
