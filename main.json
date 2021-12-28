@@ -35,6 +35,11 @@
                  "value":"mnzMgKgojMv7vqnWORFxgHotyeuCNSQ0Mp5L1Xx9QcbYWj6kqP "
                 }, 
                 {
+                 "name":"onaction",
+                 "type":"string",
+                 "value":"openWebsiteTrigger"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/engel-simulator.club\/"
@@ -56,6 +61,11 @@
                  "name":"getBadge",
                  "type":"string",
                  "value":"Cpwy1xmfA8gKPeDLl27LfDdefLFLwryzgRWPNWseJUtqgNzsMj"
+                }, 
+                {
+                 "name":"onaction",
+                 "type":"string",
+                 "value":"openWebsiteTrigger"
                 }, 
                 {
                  "name":"openWebsite",
@@ -97,6 +107,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"rustAssembly"
+                }, 
+                {
+                 "name":"onaction",
+                 "type":"string",
+                 "value":"jitsiTrigger"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -370,7 +385,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1095,6 +1110,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":50
 }
