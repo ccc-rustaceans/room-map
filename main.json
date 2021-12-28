@@ -471,6 +471,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"fairydust",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":216,
          "tileheight":32,
@@ -495,6 +501,11 @@
                          "name":"exitUrl",
                          "type":"string",
                          "value":"foo.json#bar"
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CCC"
                         }]
                 }, 
                 {
@@ -543,6 +554,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -556,6 +573,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -572,6 +595,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CCC"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -601,6 +634,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -614,6 +653,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -720,6 +765,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -733,6 +784,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_lines",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -929,6 +986,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -980,6 +1043,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"11_coffee2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -993,6 +1062,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"13_winkekatze",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1006,6 +1081,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"13_stone_tile_hatch",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1070,6 +1151,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"ferris_combined",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Rust Lang"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
