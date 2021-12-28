@@ -129,7 +129,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/timbregirlelevator_softer.mp3"
+                 "value":".\/mp3\/timbregirlelevator_softer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,7 +188,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/software.json#start_rust-lang}"
+                 "value":"world:\/\/lobby\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
