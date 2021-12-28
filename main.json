@@ -35,9 +35,9 @@
                  "value":"mnzMgKgojMv7vqnWORFxgHotyeuCNSQ0Mp5L1Xx9QcbYWj6kqP "
                 }, 
                 {
-                 "name":"onaction",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"openWebsiteTrigger"
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsite",
@@ -63,9 +63,9 @@
                  "value":"Cpwy1xmfA8gKPeDLl27LfDdefLFLwryzgRWPNWseJUtqgNzsMj"
                 }, 
                 {
-                 "name":"onaction",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"openWebsiteTrigger"
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsite",
@@ -109,9 +109,9 @@
                  "value":"rustAssembly"
                 }, 
                 {
-                 "name":"onaction",
+                 "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"jitsiTrigger"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
