@@ -257,7 +257,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/punchcard.json#start_rust"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -275,7 +275,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"secret.json"
+                 "value":"world:\/\/rust\/secret.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -450,7 +450,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":33,
+ "nextlayerid":34,
  "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
