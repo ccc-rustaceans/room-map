@@ -1,0 +1,20 @@
+{ "columns":10,
+ "image":"tiles_png\/rustacean.net\/rustacean-flat-happy_small.png",
+ "imageheight":224,
+ "imagewidth":320,
+ "margin":0,
+ "name":"rustacean-flat-happy_small",
+ "properties":[
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"https:\/\/www.rustacean.net\/"
+        }],
+ "spacing":0,
+ "tilecount":70,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}
