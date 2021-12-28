@@ -539,15 +539,6 @@
                         }]
                 }, 
                 {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":3,
                  "properties":[
                         {
