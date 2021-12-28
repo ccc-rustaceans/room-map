@@ -209,11 +209,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"HarAbjNC07NUFzwIa5ApEHzg3EY2yvkcr9KucmacfLGhDjUJov "
-                }, 
-                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
@@ -221,6 +216,23 @@
          "type":"tilelayer",
          "visible":true,
          "width":50,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":32,
+         "name":"badge_start",
+         "objects":[],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"o2oA7B6yKqinrwIgeGoRbHYyiN8TnYwTDxhrfOmtOVJKc9caDL"
+                }],
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -427,7 +439,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":32,
+ "nextlayerid":33,
  "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
