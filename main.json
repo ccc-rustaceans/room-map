@@ -275,7 +275,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/rust\/secret.json"
+                 "value":"world:\/\/rust\/secret.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
