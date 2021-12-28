@@ -407,6 +407,22 @@
  "nextlayerid":31,
  "nextobjectid":4,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Revival"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/ccc-rustaceans\/room-map"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Rust"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
