@@ -399,7 +399,8 @@
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":12,
@@ -412,7 +413,8 @@
          "spacing":0,
          "tilecount":216,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":9,
@@ -471,7 +473,8 @@
                          "value":"https:\/\/streaming.media.ccc.de"
                         }]
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -484,7 +487,8 @@
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -497,7 +501,8 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -510,7 +515,8 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":1,
@@ -523,7 +529,8 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -536,7 +543,8 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -642,7 +650,8 @@
                         }],
                  "id":187
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -655,7 +664,8 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -668,7 +678,8 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -681,7 +692,8 @@
          "spacing":0,
          "tilecount":288,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -851,7 +863,8 @@
                         }],
                  "id":146
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":7,
@@ -864,7 +877,8 @@
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":2,
@@ -877,7 +891,8 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":2,
@@ -890,7 +905,8 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":1,
@@ -903,7 +919,8 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":1,
@@ -916,7 +933,8 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":2,
@@ -929,7 +947,8 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":33,
@@ -967,7 +986,8 @@
                         }],
                  "id":231
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":10,
@@ -980,7 +1000,8 @@
          "spacing":0,
          "tilecount":70,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }, 
         {
          "columns":16,
@@ -1106,7 +1127,8 @@
                         }],
                  "id":81
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "tilesetCopyright": "CCC DE"
         }],
  "tilewidth":32,
  "type":"map",
