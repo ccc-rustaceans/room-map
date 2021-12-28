@@ -30,11 +30,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"mnzMgKgojMv7vqnWORFxgHotyeuCNSQ0Mp5L1Xx9QcbYWj6kqP "
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/engel-simulator.club\/"
@@ -47,6 +42,34 @@
          "type":"tilelayer",
          "visible":true,
          "width":50,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":31,
+         "name":"badge_engelsim",
+         "objects":[
+                {
+                 "height":129.5,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"SrAYEP11TytSIEsQLG3fwsWLisK3FhbhdOXwwKF9c1VemKlEkk  "
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":131.5,
+                 "x":590,
+                 "y":751
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -404,8 +427,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":31,
- "nextobjectid":4,
+ "nextlayerid":32,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -559,6 +582,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"01_fire_extinguisher",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -913,6 +942,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"05_mate_bottles_full",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -926,6 +961,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"07_right_mate_bottles_flora",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
