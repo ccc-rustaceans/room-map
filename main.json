@@ -1142,6 +1142,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
+ "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC and Assembly"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
