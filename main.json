@@ -458,6 +458,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -592,6 +598,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -803,6 +815,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"testing_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":288,
          "tileheight":32,
@@ -816,6 +834,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1127,6 +1151,15 @@
                          "tileid":231
                         }],
                  "id":231
+                }, 
+                {
+                 "id":393,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CCC & Rust Assembly"
+                        }]
                 }],
          "tilewidth":32
         }, 
@@ -1138,6 +1171,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"rustacean-flat-happy_small",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Rust Lang"
+                }],
          "spacing":0,
          "tilecount":70,
          "tileheight":32,
