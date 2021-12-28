@@ -555,15 +555,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":8,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de"
-                        }]
                 }],
          "tilewidth":32
         }, 
