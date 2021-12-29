@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"room1..json"
+         "target":"main.json"
         }
     },
  "height":50,
